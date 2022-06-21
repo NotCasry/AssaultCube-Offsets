@@ -1,0 +1,43 @@
+# Main
+
+-- Health
+Offsets EC
+"ac_client.exe"+0017E0A8
+
+-- Armour
+Offsets F0
+"ac_client.exe+0x0017E0A8"
+
+# Weapons
+
+-- AssaultRifle
+Offsets 140
+"ac_client.exe"+0017E0A8
+
+-- SMG
+Offsets 138
+"ac_client.exe"+0017E0A8
+
+-- Sniper Rifle
+Offsets 13C
+"ac_client.exe"+0017E0A8
+
+-- Shotgun
+Offsets 134
+"ac_client.exe"+0017E0A8
+
+-- Carbine Rifle
+Offsets 130
+"ac_client.exe"+0017E0A8
+
+-- Pistol Ammo
+Offsets 12C
+"ac_client.exe"+0017E0A8
+
+-- Grenade
+Offsets 144
+"ac_client.exe"+0017E0A8
+
+-- Dual Pistols
+Offsets 148
+"ac_client.exe"+0017E0A8
