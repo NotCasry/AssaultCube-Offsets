@@ -30,7 +30,7 @@ Offsets 134
 Offsets 130
 "ac_client.exe"+0017E0A8
 
--- Pistol Ammo
+-- Pistol
 Offsets 12C
 "ac_client.exe"+0017E0A8
 
